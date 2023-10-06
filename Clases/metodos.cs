@@ -10,19 +10,19 @@ namespace Ejercicios2_JSVE.Clases
     {
         //public static int[] SumaDeArreglos()
         //{
-        //    Console.WriteLine("Escribe el tamaño");
+        //    Console.WriteLine("Escribir el tamaño:");
         //    int tamaño = Convert.ToInt32(Console.ReadLine());
-        //    int[] arreglo1 = new int[tamaño];
-        //    int[] arreglo2 = new int[tamaño];
+        //    int[] a1 = new int[tamaño];
+        //    int[] a2 = new int[tamaño];
         //    int[] resultado = new int[tamaño];
 
-        //    Console.WriteLine("Escribe un numero para el arreglo 1:");
+        //    Console.WriteLine("Arreglo1:");
         //    for (int x = 0; x < tamaño; x++)
         //    {
         //        Console.WriteLine($"valor{x + 1}:");
         //        arreglo1[x] = int.Parse(Console.ReadLine());
         //    }
-        //    Console.WriteLine("Escribe un segundo numero para el arreglo 2:");
+        //    Console.WriteLine("Arreglo2:");
         //    for (int x = 0; x < tamaño; x++)
         //    {
         //        Console.WriteLine($"valor{x + 1}:");
@@ -31,7 +31,7 @@ namespace Ejercicios2_JSVE.Clases
 
         //    for (int x = 0; x < tamaño; x++)
         //    {
-        //        resultado[x] = arreglo1[x] + arreglo2[x];
+        //        resultado[x] = a1[x] + a2[x];
         //    }
         //    return resultado;
         //}
